@@ -3,6 +3,5 @@ pandas
 pdfplumber
 plotly
 fpdf2
-kaleido==0.2.1
-
 openpyxl
+kaleido==0.2.1
