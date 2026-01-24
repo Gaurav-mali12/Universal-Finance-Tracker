@@ -16,3 +16,6 @@ __pycache__/
 # System Files
 .DS_Store
 Thumbs.db
+
+# Exceptions: Allow the trial data file specifically
+!Trial_data.xlsx
