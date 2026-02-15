@@ -62,4 +62,14 @@ Universal-Finance-Tracker/
 ├── LICENSE             # MIT License
 └── README.md           # Project Overview & Quick Start
 
+```
+---
+
+## 👨‍💻 Author
+
+Gaurav Mali  
+Aspiring Data Scientist | Python | SQL | Machine Learning
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
 
